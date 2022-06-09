@@ -2,22 +2,22 @@
 
 using namespace std;
 
-class Klitina
+class Cell //объявили класс клетки
 {
 private:
-    /* data */
+    int x,y; //площадь клетки
+    
 public:
     
-Klitina(/* args */);
-    ~
-Klitina();
+Cell(/* args */);
+~Cell();
 };
 
-Klitina::Klitina(/* args */)
+Cell::Cell(/* args */)
 {
 }
 
-Klitina::~Klitina()
+Cell::~Cell()
 {
 }
 
