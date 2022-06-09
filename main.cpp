@@ -2,6 +2,7 @@
 
 using namespace std;
 
+<<<<<<< HEAD
 class Cell //объявили класс клетки
 {
 private:
@@ -22,6 +23,8 @@ Cell::~Cell()
 }
 
 
+=======
+>>>>>>> fb9ec4578a16fd47d25fb2b4a225fc559e8d28cb
 int main()
 {
 
