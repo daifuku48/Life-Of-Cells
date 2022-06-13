@@ -1,5 +1,5 @@
 #include <iostream>
-#include "Solution.h"
+#include "Simulation.h"
 #include "windows.h"
 using namespace std;
 
